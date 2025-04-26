@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="library.xsd">
+    <book id="b001">
+        <title>Война и мир</title>
+        <author>Лев Толстой</author>
+        <year>1869</year>
+        <genre>Роман</genre>
+        <price>25.50</price>
+    </book>
+    <book id="b002">
+        <title>Преступление и наказание</title>
+        <author>Фёдор Достоевский</author>
+        <year>1866</year>
+        <genre>Психологический роман</genre>
+        <price>19.99</price>
+    </book>
+    <book id="b003">
+        <title>Мастер и Маргарита</title>
+        <author>Михаил Булгаков</author>
+        <year>1967</year>
+        <genre>Фантастика</genre>
+        <price>22.75</price>
+    </book>
+</library>
